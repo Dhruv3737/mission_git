@@ -1,3 +1,6 @@
-first file in master 
-v1 in master
+second  file in master 
+v3 in b1
+>>>>>
+second file in master
+v2 in b1
 
